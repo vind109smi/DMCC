@@ -1,0 +1,75 @@
+@charset "utf-8";
+
+
+body {
+	font-size: 20px;
+	text-align: center;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	color: white;
+	background-color: gray;
+	
+}
+
+h2 {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	font-size: 30px;
+	color: white;
+	text-align: center;
+}
+
+h3 {
+	padding-bottom: 30px;
+	font-size: 30px;
+	color: white;
+	text-align: center;
+}
+
+.crowlercontainer{
+	position: relative;
+	margin-left: 430px;
+	margin-top: 310px;
+	
+}
+
+.chalkboardcontainer {
+	position: relative;
+	text-align: center;
+	color: white;
+	margin-left: 5px;
+	margin-top: 260px;
+}
+
+img .crowler {
+	margin-left: 100px;
+}
+
+.chalkboardtext {
+	position: absolute;
+	top: 40px;
+	left: 40px;
+	text-align: center;
+}
+
+.boringvideo {
+	margin-left: 10px;
+	width: 100%;
+	border: 5px solid white;
+	
+}
+
+.duelmonsterbtn {
+	padding: 5px;
+	font: bold;
+	border-radius: 10%;
+	border: 4px solid white;
+	color: white;
+	font-size: 25px;
+	position: relative;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	background-color: purple;
+	
+}
